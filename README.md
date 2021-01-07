@@ -1,6 +1,6 @@
 ## React 五子棋
 
-使用技術：React、styled-component
+使用技術：React、styled-component  
 利用 React Hook 來撰寫 component，並且利用 styled-component 來進行版面美化。
 
 ### 規則：
